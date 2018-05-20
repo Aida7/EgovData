@@ -1,0 +1,17 @@
+C:\Users\Админ\source\repos\ExchangeRates\ExchangeRates\bin\Debug\ExchangeRates.exe.config
+C:\Users\Админ\source\repos\ExchangeRates\ExchangeRates\bin\Debug\ExchangeRates.exe
+C:\Users\Админ\source\repos\ExchangeRates\ExchangeRates\bin\Debug\ExchangeRates.pdb
+C:\Users\Админ\source\repos\ExchangeRates\ExchangeRates\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Админ\source\repos\ExchangeRates\ExchangeRates\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Админ\source\repos\ExchangeRates\ExchangeRates\obj\Debug\ExchangeRates.csprojResolveAssemblyReference.cache
+C:\Users\Админ\source\repos\ExchangeRates\ExchangeRates\obj\Debug\MainWindow.g.cs
+C:\Users\Админ\source\repos\ExchangeRates\ExchangeRates\obj\Debug\App.g.cs
+C:\Users\Админ\source\repos\ExchangeRates\ExchangeRates\obj\Debug\ExchangeRates_MarkupCompile.cache
+C:\Users\Админ\source\repos\ExchangeRates\ExchangeRates\obj\Debug\ExchangeRates_MarkupCompile.lref
+C:\Users\Админ\source\repos\ExchangeRates\ExchangeRates\obj\Debug\MainWindow.baml
+C:\Users\Админ\source\repos\ExchangeRates\ExchangeRates\obj\Debug\ExchangeRates.g.resources
+C:\Users\Админ\source\repos\ExchangeRates\ExchangeRates\obj\Debug\ExchangeRates.Properties.Resources.resources
+C:\Users\Админ\source\repos\ExchangeRates\ExchangeRates\obj\Debug\ExchangeRates.csproj.GenerateResource.Cache
+C:\Users\Админ\source\repos\ExchangeRates\ExchangeRates\obj\Debug\ExchangeRates.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\ExchangeRates\ExchangeRates\obj\Debug\ExchangeRates.exe
+C:\Users\Админ\source\repos\ExchangeRates\ExchangeRates\obj\Debug\ExchangeRates.pdb
